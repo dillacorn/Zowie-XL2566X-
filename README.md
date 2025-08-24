@@ -1,4 +1,4 @@
-# Zowie XL2566X Monitor Settings
+# Zowie XL2566X+ Monitor Settings
 
 ## S-Switch Quick Settings Order
 1. Brightness  
